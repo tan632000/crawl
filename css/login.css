@@ -1,0 +1,23 @@
+.section-login{
+    background: rgba(129, 136, 99, 0.199);
+    max-height: 1000px;
+}
+.form-background{
+    background: rgba(207, 127, 127, 0.596);
+    margin-top: 60px;
+    margin-bottom: 120px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.form-background > h3{
+    text-align: center;
+    background-origin: padding-box;
+    border: none;
+    color: rgb(115, 158, 30);
+}
+.button-fix{
+    text-align: center;
+}
+.required{
+    color:red;
+}
